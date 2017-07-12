@@ -13,3 +13,14 @@ Specifically,
 
 [rmarkdown]: http://rmarkdown.rstudio.com/rmarkdown_websites.htm
 [rstudio]: https://www.rstudio.com/products/rstudio/download/preview/
+
+
+
+<br>
+
+# Introduction
+
+This ia an example file of WorkFlowR with batch effect(?).
+
+## Analysis
+Report1 [link](batch_effect_1.html)
