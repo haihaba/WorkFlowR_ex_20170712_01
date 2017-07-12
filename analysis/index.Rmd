@@ -23,4 +23,4 @@ Specifically,
 This ia an example file of WorkFlowR with batch effect(?).
 
 ## Analysis
-Report1 [link](batch_effect_1.html)
+Report1 [link](batch-effect-part1.html)
